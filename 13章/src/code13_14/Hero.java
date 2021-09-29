@@ -2,7 +2,7 @@ package code13_14;
 
 public class Hero {
 	private int hp;
-	String name;
+	private String name;
 	Sword sword;
 
 	public void bye() {

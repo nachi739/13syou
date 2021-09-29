@@ -1,4 +1,4 @@
-package code13_10;
+package code13_07;
 
 public class Hero {
 	private int hp;
@@ -24,20 +24,4 @@ public class Hero {
 			this.die();
 		}
 	}
-
-	public String  getName() {
-		return this.name;
-	}
-	public void setName(String name) {
-		this.name = name;
-	}
-
-
-
-
-
-
-
-
-
 }
